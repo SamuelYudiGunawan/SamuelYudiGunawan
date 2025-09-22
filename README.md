@@ -13,14 +13,9 @@
 
 ## 🚀 Favorite Projects
 
-- [Muemo](https://github.com/SamuelYudiGunawan/muemo): Streamlining task management and productivity.
+- [Muemo](https://github.com/SamuelYudiGunawan/muemo): Give music recommendations using user emotion (face recognition) with AI DeepFace.
 - [PetAny BE](https://github.com/SamuelYudiGunawan/petany-be): Backend for an innovative pet care and management platform.
-
-Explore more of my work:
-- [pym-be](https://github.com/SamuelYudiGunawan/pym-be)
-- [adaptivetrafficlight](https://github.com/SamuelYudiGunawan/adaptivetrafficlight)
-- [elib](https://github.com/SamuelYudiGunawan/elib)
-- [wishlist](https://github.com/Kevinsweep/wishlist)
+- [Adaptive Traffic Light](https://github.com/SamuelYudiGunawan/adaptivetrafficlight): Smart traffic light system using AI to optimize traffic flow.
 
 ## 🌐 Connect with Me
 
@@ -32,7 +27,3 @@ Explore more of my work:
 
 ![SamuelYudiGunawan's GitHub stats](https://github-readme-stats.vercel.app/api?username=SamuelYudiGunawan&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelYudiGunawan&layout=compact&theme=radical)
-
-<!--
-Want to know more or collaborate? Feel free to reach out!
--->
